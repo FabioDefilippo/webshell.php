@@ -1,2 +1,2 @@
-# shell.php.jpg
-evasion webshell in php with jpg extension
+# webshell.php
+evasion webshell in php in different extensions
