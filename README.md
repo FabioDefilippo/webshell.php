@@ -1,6 +1,13 @@
 # webshell.php
 evasion webshell in php in different extensions
 
+## HOWTOUSE:
+- choose a webshell you need;
+- download or use the raw link to upload the webshell file in target website;
+- navigate into webpage in which there is the webshell uploaded;
+- add ?cmd={*NIX_COMMAND} in address bar;
+- Happy Hacking!
+
 ## Note:
 - magic-number webshells have magic number of images to bypass some waf;
 - AAAAAAAAAABBBBBBBBBBCCCCCCCCCCDDDDDDDDDDEEEEEEEEEEFFFFFFFFFFGGGGGGGGGGHHHHHHHHHHIIIIIIIIIIJJJJJJJJJJKKKKKKKKKKLLLLLLLLLLMMMMMMMMMMNNNNNNNNNNOOOOOOOOOOPPPPPPPPPPQQQQQQQQQQRRRRRRRRRRSSSSSSSSSSTTTTTTTTTTUUUUUUUUUUVVVVVVVVVVWWWWWWWWWWXX is a particular name of php webshell to exploit the limit of output filename in `wget`, this last one will download the webshell but will truncate '.jpg' extension in output filename;
